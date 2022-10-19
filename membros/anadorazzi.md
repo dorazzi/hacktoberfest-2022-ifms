@@ -10,6 +10,6 @@ Concluindo o Ensino Médio Intregado em Informática
 
 Tenho 17 anos 
 
-# cidade
+# cidade natal
 
-Nova Andradina -  Ms
+Osvaldo Cruz - SP
