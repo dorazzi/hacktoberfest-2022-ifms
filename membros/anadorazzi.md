@@ -13,3 +13,7 @@ Tenho 17 anos
 # cidade natal
 
 Osvaldo Cruz-SP
+
+# data de nascimento
+
+28/12/2004
