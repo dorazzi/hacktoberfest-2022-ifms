@@ -9,3 +9,7 @@ Concluindo o Ensino Médio Intregado em Informática
 # idade
 
 Tenho 17 anos 
+
+# cidade
+
+Nova Andradina
