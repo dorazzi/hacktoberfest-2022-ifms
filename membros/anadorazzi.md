@@ -5,3 +5,7 @@ Estudanteuna do Instituto Federal do Mato Grosso do Sul, campus Nova Andradina
 # formação
 
 Concluindo o Ensino Médio Intregado em Informática 
+
+# idade
+
+Tenho 17 anos 
